@@ -15,22 +15,22 @@ Fitur pencarian, registrasi, dan form masukan bertujuan untuk meningkatkan keter
 
 ## 3. Website berjalan
 ### Beranda
-![Beranda](tete_batu/img/Web%20berjalan/Beranda.png)
+![Beranda](tete_batu/assets/uploads/Beranda.png)
 
 ### Destinasi
-![Destinasi](tete_batu/img/Web%20berjalan/Destinasi.png)
+![Destinasi](tete_batu/assets/uploads/Destinasi.png)
 
 ### Tentang
-![Tentang](tete_batu/img/Web%20berjalan/Tentang.png)
+![Tentang](tete_batu/assets/uploads/Tentang.png)
 
 ### Kontak
-![Kontak](tete_batu/img/Web%20berjalan/Kontak.png)
+![Kontak](tete_batu/assets/uploads/Kontak.png)
 
 ### Daftar
-![Daftar](tete_batu/img/Web%20berjalan/Daftar.png)
+![Daftar](tete_batu/assets/uploads/Daftar.png)
 
 ### Login
-![Login](tete_batu/img/Web%20berjalan/Login.png)
+![Login](tete_batu/assets/uploads/Login.png)
 
 ## 4. Kontributor
 * Khairul Warisin Hammami
