@@ -26,13 +26,14 @@ include 'includes/header.php';
 ?>
 
     <!-- Hero Section -->
-    <div class="hero">
-        <div class="container text-center">
-            <h1 class="display-3 fw-bold">Wisata Tete Batu, Lombok</h1>
-            <p class="lead">Keindahan Alam Pegunungan di Pulau Lombok</p>
-            <a href="#destinasi" class="btn btn-primary btn-lg mt-3">Jelajahi Sekarang</a>
-        </div>
+   <div class="hero">
+    <img src="./assets/uploads/60091.jpg" class="hero" alt="Tete Batu">
+    <div class="container text-center">
+        <h1 class="display-3 fw-bold">Desa Wisata Tete Batu</h1>
+        <p class="lead">Keindahan Alam Pegunungan di Pulau Lombok</p>
+        <a href="#destinasi" class="btn btn-primary btn-lg mt-3">Jelajahi Sekarang</a>
     </div>
+</div>
 
     <!-- Main Content -->
     <div class="container my-5">
